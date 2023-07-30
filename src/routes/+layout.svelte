@@ -1,11 +1,11 @@
 <script>
-    import "../app.css";
+  import "../assets/css/app.css";
 </script>
 
 <nav>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <a href="/contact">Contact</a>
+  <a href="/">Home</a>
+  <a href="/about">About</a>
+  <a href="/contact">Contact</a>
 </nav>
 
 <slot />
