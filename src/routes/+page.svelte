@@ -1,8 +1,4 @@
-<script lang="ts">
-  let title: string = "Hello";
-</script>
-
-<title>{title}</title>
+<title>Hello</title>
 
 <div class="index">
   <h1>George's Homepage</h1>
